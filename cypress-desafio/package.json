@@ -1,0 +1,12 @@
+{
+  "name": "cypress-express-mark",
+  "version": "1.0.0",
+  "description": "Projeto de testes de ponta a ponta no Mark L",
+  "main": "index.js",
+  "author": "Renan",
+  "license": "MIT",
+  "devDependencies": {
+    "@faker-js/faker": "^8.1.0",
+    "cypress": "12.2.0"
+  }
+}
